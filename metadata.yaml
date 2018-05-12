@@ -1,0 +1,31 @@
+_repo: A-Golfing-Idyll--Or-The-Skipper-s-Round-with-the-Deil-On-the-Links-of-St.-Andrews_31928
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bannerman, A. Islay
+    gutenberg_agent_id: '35562'
+    url: http://www.gutenberg.org/2009/agents/35562
+covers:
+- cover_type: archival
+  image_path: 31928-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Flint, Violet
+    alias: Thomson, J. E.
+    gutenberg_agent_id: '35561'
+    url: http://www.gutenberg.org/2009/agents/35561
+description: ''
+gutenberg_issued: '2010-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golf -- Poetry'
+- !lcc 'PR'
+title: A Golfing Idyll; Or, The Skipper's Round with the Deil On the Links of St.
+  Andrews
+url: http://www.gutenberg.org/ebooks/31928
